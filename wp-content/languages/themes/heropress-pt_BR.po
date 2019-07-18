@@ -1,0 +1,100 @@
+# Translation of Themes - HeroPress in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - HeroPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-16 09:37:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - HeroPress\n"
+
+#. Description of the theme
+msgid "HeroPress is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. It fits for business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. HeroPress premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. View the demo of HeroPress Premium https://demo.speciatheme.com/pro/?theme=heropress"
+msgstr "HeroPress é um tema WordPress com uma grande quantidade de poderosos recursos , dando instantaneamente uma aparência profissional ao seu perfil online. Ele se adapta para negócios, portfólio, alimentos e restaurante, academia e fitness, salão de spa, médico e hospitais, landing pages, páginas de produtos, negócios corporativos, agência digital, vitrine de produtos, consultoria financeira, contabilidade, escritório de advocacia, assessoria financeira, fotografia, site pessoal ou qualquer loja de comércio eletrônico. A versão HeroPress Premium oferece mais de 10 designs diferentes e suporta plugins populares WPML, Polylang, WooCommerce, Formulário de Contato 7, Revolution Slider, Elementor, Compositor Visual, Formulários WP, Formulários Ninja, Jetpack, WP-Featherlight, Give (Plugin WordPress Donation ), Gravity Forms, Yoast SEO e muito mais. Veja a demonstração do HeroPress Premium https://demo.speciatheme.com/pro/?theme=heropress"
+
+#. Theme Name of the theme
+msgid "HeroPress"
+msgstr "HeroPress"
+
+#: inc/customize/heropress-premium.php:31
+msgid "Support Center"
+msgstr "Centro de Suporte"
+
+#: inc/customize/heropress-premium.php:29
+msgid "Our Themes"
+msgstr "Nossos temas"
+
+#: inc/customize/heropress-premium.php:27
+msgid "Buy Now"
+msgstr "Comprar Agora"
+
+#: inc/customize/heropress-premium.php:25
+msgid "View Details"
+msgstr "Ver Detalhes"
+
+#: inc/customize/heropress-premium.php:23
+msgid "Premium Demo"
+msgstr "Demo Premium"
+
+#: inc/customize/heropress-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Atualize para o Premium"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Homepage um"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Largura total"
+
+#: sections/specia-service.php:65 sections/specia-slider.php:61
+msgid "Read More"
+msgstr "Ler mais"
+
+#: sections/specia-navigation.php:29
+msgid "Toggle navigation"
+msgstr "Alternar navegação"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Arquivo da tag: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Arquivo anual: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Arquivo mensal: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Arquivo diários: %s"
+
+#. Theme URI of the theme
+msgid "https://speciatheme.com/heropress-free/"
+msgstr "https://speciatheme.com/heropress-free/"
+
+#. Author URI of the theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the theme
+msgid "Specia"
+msgstr "Specia"
